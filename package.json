@@ -9,8 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bcrypt": "^0.8.5",
     "body-parser": "^1.14.1",
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "oauth20-provider": "^0.6.0",
+    "pg": "^4.4.3"
   },
   "devDependencies": {
     "gulp": "^3.9.0",
